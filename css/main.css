@@ -1,0 +1,25 @@
+#menu{
+    background-color: #000000;
+    border-radius: 30px;
+    padding: 2px;
+}
+
+#menu li{
+    display: inline-block;
+    line-height: 26px;
+    text-align: center;
+    width: 80px;
+    gap: 10px;
+    font-size: 19px;
+    font-family: arial, tahoma;
+}
+
+#menu li:hover{
+    background-color: #21270abf;
+    border-radius: 10px;
+}
+
+#menu li a{
+    text-decoration: none;
+    color: red;
+}
